@@ -4,6 +4,10 @@ An MCP server that detects potential honeypot tokens on Ethereum, BNB Smart Chai
 
 > **Honeypot** is a type of fraudulent smart contract that allows users to buy tokens but prevents them from selling or makes selling extremely difficult.
 
+<a href="https://glama.ai/mcp/servers/@kukapay/honeypot-detector-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kukapay/honeypot-detector-mcp/badge" alt="honeypot-detector-mcp MCP server" />
+</a>
+
 ![GitHub License](https://img.shields.io/github/license/kukapay/honeypot-detector-mcp) 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
@@ -88,4 +92,3 @@ Please check if the token at address 0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
